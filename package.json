@@ -20,6 +20,7 @@
     "@mui/icons-material": "^6.4.5",
     "@mui/material": "^6.4.5",
     "@mui/x-date-pickers": "^7.27.0",
+    "axios": "^1.8.1",
     "dayjs": "^1.11.13",
     "gsap": "^3.12.7",
     "mongoose": "^8.10.1",

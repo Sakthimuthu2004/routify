@@ -18,7 +18,9 @@ import TimerPicker from "./TimerPicker";
 import HabitWindowArea from "./HabitWindow/HabitWindowAreas";
 import { AreaType } from "../../../Types/GlobalTypes";
 import { HabitType } from "../../../Types/GlobalTypes";
-import { addNewHabit } from "../../../utils/allHabitsUtils/addNewHabit";
+
+import addNewHabit from "../../../utils/allHabitsUtils/addNewHabit"
+
 import toast from "react-hot-toast";
 import AllHabits from "../AllHabits";
 

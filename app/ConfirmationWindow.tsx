@@ -74,7 +74,7 @@ export function ConfirmationWindow() {
         </button>
         <button
           onClick={() => deleteOption()}
-          className={`  w-full px-10 text-[13px]   p-3 text-white rounded-md bg-green-900  `}
+          className={`  w-full px-10 text-[13px]   p-3 text-white rounded-md bg-customRed  `}
         >
           Delete
         </button>

@@ -1,4 +1,4 @@
-import { HabitType } from "@/app/Types/GlobalTypes";
+import { HabitType } from "../../Types/GlobalTypes";
 import toast from "react-hot-toast";
 async function updateHabitInMongoDB(habit: HabitType) {
   try {
